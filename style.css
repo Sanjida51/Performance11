@@ -85,9 +85,11 @@ p{
 }
 #p7 img{
     vertical-align: text-top;
+    
 }
-#p8 img{
+#p8 {
     vertical-align: super;
     direction: rtl;
     unicode-bidi: embed;
+    
 }
